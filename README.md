@@ -14,7 +14,7 @@ python setup.py
 ```
 <br/>
 
-### Configurando o Phishing no Kali Linux
+### Configurando o Phishing no Debian
 
 - Acesso root: ``` sudo su ```
 - Iniciando o setoolkit: ``` setoolkit ```
